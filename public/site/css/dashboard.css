@@ -1,0 +1,41 @@
+#topheader{
+    margin: 200px 0;
+}
+
+#header{
+    padding: 10px 0;
+    background: #ccc;
+    text-align: right;
+}
+
+ul.sitemenu{
+    list-style: none;
+    padding: 15px;
+    margin: 0;
+    background: #999;
+
+}
+
+ul.sitemenu li{
+    /* display: inline-block; */
+    padding: 15px 5px;
+    background: #000;
+    margin: 5px 0;
+}
+
+ul.sitemenu li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+ul.sitemenu li:hover{
+    background: red;
+    /* color: red; */
+}
+
+.text-center{
+    text-align: center;
+    background: #ccc;
+    padding: 20px 0;
+}
